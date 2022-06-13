@@ -25,6 +25,9 @@
   margin-right: 10px;
 }
 
+.fold {
+  visibility: hidden;
+}
 /* Home */
 
 .Home-Write {
