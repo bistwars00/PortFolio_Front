@@ -9,6 +9,7 @@ const Navs = () => {
         <Navbar.Brand href="/" className="Nav-Icon">
           Portfolio
         </Navbar.Brand>
+     <Navbar.Toggle aria-controls="responsive-navbar-nav" className="fold" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto"></Nav>
           <Nav className="Nav-Menu">
