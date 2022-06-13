@@ -3,8 +3,8 @@ env.PUBLIC_URL = env.PUBLIC_URL || "";
 export const projectImgList = [
   {
     title: "Portfolio",
-    go_git: "https://github.com/bistwars00/LOUIS_VUITTON.git",
-    go_url: "https://jc-louisvuitton.netlify.app/",
+    go_git: "https://github.com/bistwars00/PortFolio_Front.git",
+    go_url: "https://portfoliofront-jcl.netlify.app/",
     pro_img: process.env.PUBLIC_URL + `/assets/Portfolio.png`,
   },
   {
